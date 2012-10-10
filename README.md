@@ -36,10 +36,11 @@ We're using <a href="https://github.com/">github</a> for all of our source code 
 <h3>Pivotal Tracker</h3>
 
 This project will be publicly tracked using Pivotal Tracker. To participate:
-
-Signup for a free Pivotal Tracker account
-Check out the project page
-Join the project by clicking red the JOIN PROJECT button
+<ol>
+<li>Signup for a <a href="https://www.pivotaltracker.com/">free Pivotal Tracker account</a></li>
+<li>Check out the <a href="https://www.pivotaltracker.com/projects/662355/stories">project page</a></li>
+<li>Join the project by clicking the red JOIN PROJECT button</li>
+</ol>
 
 We'll process your request from there.
 
