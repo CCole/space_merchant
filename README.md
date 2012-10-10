@@ -12,7 +12,7 @@ In this project the group will work as a team, using Ruby, to build an interacti
 <li>Gain experience using a shared project workflow</li>
 <ul>
 <li><a href="https://github.com/">Github</a></li> 
-<li><a href="http://www.pivotaltracker.com/">Pivotal Tracker</a> for tasks, story, feature, bug managment</li>
+<li><a href="http://www.pivotaltracker.com/">Pivotal Tracker</a> for tasks, story, feature, bug management</li>
 <li><a href="http://campfirenow.com/">Campfire</a> for collaboration</li>
 </ul>
 
