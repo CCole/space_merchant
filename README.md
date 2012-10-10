@@ -5,13 +5,13 @@ Group project for learning Ruby and how to work in a team.
 
 In this project the group will work as a team, using Ruby, to build an interactive game. 
 
-<h2>Goals:</h2>
+<h2>Goals</h2>
 <ul>
 <li>Learn essential Ruby programming skills</li>
 
 <li>Gain experience using a shared project workflow</li>
 <ul>
-<li><a href="https://github.com/">Github</a></li> 
+<li><a href="https://github.com/">Github</a> and <a href="https://help.github.com/articles/using-pull-requests">pull request</a></li> 
 <li><a href="http://www.pivotaltracker.com/">Pivotal Tracker</a> for tasks, story, feature, bug management</li>
 <li><a href="http://campfirenow.com/">Campfire</a> for collaboration</li>
 </ul>
@@ -44,8 +44,21 @@ This project will be publicly tracked using Pivotal Tracker. To participate:
 
 We'll process your request from there.
 
-Also be sure to check out the documentation on SCM Post Commits for linking your commit messages to story IDs.
+Also be sure to check out the documentation on <a href="https://www.pivotaltracker.com/help/api#scm_post_commit">SCM Post Commits</a> for linking your commit messages to story IDs.
 
+<h2>Workflow</h2> 
 
+<h2>Resources</h2>
+<ul>
+<li><a href="http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html">Ruby in 100 Minutes</a> Jumpstart Lab Tutorial</li>
+<li><a href="http://ruby.bastardsbook.com/">The Bastards Book of Ruby</a> Programming Primer</li>
+</ul>
+
+<h2>Contact Us</h2> 
+<ul>
+<li>Github: <a href="https://github.com/ScrappyAcademy">https://github.com/ScrappyAcademy</a></li>
+<li>Twitter: <a href="https://twitter.com/scrappyacademy">Sir Scrappy @ScrappyAcademy</a></li>
+<li>Google Groups: <a href="https://groups.google.com/d/forum/scrappyacademy">https://groups.google.com/d/forum/scrappyacademy</a>
+</ul>
  
 
